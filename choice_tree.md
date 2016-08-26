@@ -14,4 +14,4 @@ no cook -> utilise google places api, use location data provided to call to Zoma
         |                                       |   under $30 | ->
         |                                       |             |    one or the other between top 5 ranked results until decision
         |                                       |   over $30  | ->
-        | take out (resteraunt in places api)   | ->
+        | take out (restaurant in places api)   | ->
